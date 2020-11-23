@@ -1,394 +1,1514 @@
 [
-  { "country": "Afghanistan", "states": ["Afghanistan (general)"] },
-  { "country": "Andorra", "states": ["Andorra (general)"] },
-  { "country": "Albania", "states": ["Albania (general)"] },
-  { "country": "Algeria", "states": ["Algeria (general)"] },
-  { "country": "Angola", "states": ["Angola (general)"] },
-  { "country": "Argentina", "states": ["Argentina (general)"] },
-  { "country": "Antigua_Barbuda", "states": ["Antigua_Barbuda (general)"] },
-  { "country": "Anguilla", "states": ["Anguilla (general)"] },
-  { "country": "Armenia", "states": ["Armenia (general)"] },
-  { "country": "Australia", "states": ["Australia (general)"] },
-  { "country": "Aruba", "states": ["Aruba (general)"] },
-  { "country": "Austria", "states": ["Austria (general)"] },
-  { "country": "Azerbaijan", "states": ["Azerbaijan (general)"] },
-  { "country": "Bahamas", "states": ["Bahamas (general)"] },
-  { "country": "Bangladesh", "states": ["Bangladesh (general)"] },
-  { "country": "Belarus", "states": ["Belarus (general)"] },
-  { "country": "Barbados", "states": ["Barbados (general)"] },
-  { "country": "Bahrain", "states": ["Bahrain (general)"] },
-  { "country": "Belgium", "states": ["Belgium (general)"] },
-  { "country": "Bhutan", "states": ["Bhutan (general)"] },
-  { "country": "Bolivia", "states": ["Bolivia (˝general)"] },
-  { "country": "Benin", "states": ["Benin (general)"] },
-  {
-    "country": "Bosnia and Herzegovina",
-    "states": ["Bosnia and Herzegovina (general)"]
-  },
-  { "country": "Botswana", "states": ["Botswana (general)"] },
-  { "country": "Belize", "states": ["Belize (general)"] },
-  { "country": "Bermuda", "states": ["Bermuda (general)"] },
-  { "country": "Brazil", "states": ["Brazil (general)"] },
-  { "country": "Bulgaria", "states": ["Bulgaria (general)"] },
-  { "country": "Brunei", "states": ["Brunei (general)"] },
-  { "country": "Burkina Faso", "states": ["Burkina Faso (general)"] },
-  { "country": "Cambodia", "states": ["Cambodia (general)"] },
-  { "country": "Cameroon", "states": ["Cameroon (general)"] },
-  {
-    "country": "British Virgin Islands",
-    "states": ["British Virgin Islands (general)"]
-  },
-  { "country": "Canada", "states": ["Canada (general)"] },
-  { "country": "Burundi", "states": ["Burundi (general)"] },
-  {
-    "country": "Caribbean Netherlands",
-    "states": ["Caribbean Netherlands (general)"]
-  },
-  { "country": "Cape Verde", "states": ["Cape Verde (general)"] },
-  { "country": "Cayman Island", "states": ["Cayman Island (general)"] },
-  { "country": "Chad", "states": ["Chad (general)"] },
-  {
-    "country": "Central African Republic",
-    "states": ["Central African Republic (general)"]
-  },
-  { "country": "Colombia", "states": ["Colombia (general)"] },
-  { "country": "Chile", "states": ["Chile (general)"] },
-  {
-    "country": "China",
-    "states": [
-      "Anhui",
-      "Beijing Shi",
-      "Fujian",
-      "Gansu",
-      "Guangdong",
-      "Guangxi Zhu",
-      "Guizhou",
-      "Hebei",
-      "Heilongjiang",
-      "Henan",
-      "Hubei",
-      "Hunan",
-      "Jiangsu",
-      "Jiangxi",
-      "Jilin",
-      "Liaoning",
-      "Nei Menggu",
-      "Nei Mongol",
-      "Ningxia Huizu",
-      "Qinghai",
-      "Shaanxi",
-      "Shandong",
-      "Shanghai Shi",
-      "Shanxi",
-      "Sichuan",
-      "Tianjin Shi",
-      "Xinjiang",
-      "Yunnan",
-      "Zhejiang",
-      "Other"
-    ]
-  },
-  { "country": "Comoros", "states": ["Comoros (general)"] },
-  { "country": "Congo (DRC)", "states": ["Congo (DRC) (general)"] },
-  { "country": "Cook Island", "states": ["Cook Island (general)"] },
-  { "country": "Costa Rica", "states": ["Costa Rica (general)"] },
-  { "country": "Cuba", "states": ["Cuba (general)"] },
-  { "country": "Curaçao", "states": ["Curaçao (general)"] },
-  { "country": "Congo", "states": ["Congo (general)"] },
-  { "country": "Croatia", "states": ["Croatia (general)"] },
-  { "country": "Cyprus", "states": ["Cyprus (general)"] },
-  { "country": "Czech Republic", "states": ["Czech Republic (general)"] },
-  { "country": "Dominica", "states": ["Dominica (general)"] },
-  { "country": "Ecuador", "states": ["Ecuador (general)"] },
-  { "country": "Djibouti", "states": ["Djibouti (general)"] },
-  { "country": "Denmark", "states": ["Denmark (general)"] },
-  { "country": "El Salvador", "states": ["El Salvador (general)"] },
-  { "country": "Egypt", "states": ["Egypt (general)"] },
-  { "country": "Equatorial Guinea", "states": ["Equatorial Guinea (general)"] },
-  { "country": "Eritrea", "states": ["Eritrea (general)"] },
-  { "country": "Estonia", "states": ["Estonia (general)"] },
-  { "country": "Falklands Islands", "states": ["Falklands Islands (general)"] },
-  { "country": "Ethiopia", "states": ["Ethiopia (general)"] },
-  {
-    "country": "Dominican Republic",
-    "states": ["Dominican Republic (general)"]
-  },
-  { "country": "Finland", "states": ["Finland (general)"] },
-  { "country": "Faroe Islands", "states": ["Faroe Islands (general)"] },
-  { "country": "France", "states": ["France (general)"] },
-  { "country": "Fiji", "states": ["Fiji (general)"] },
-  { "country": "French Guiana", "states": ["French Guiana (general)"] },
-  { "country": "Gambia", "states": ["Gambia (general)"] },
-  { "country": "French Polynesia", "states": ["French Polynesia (general)"] },
-  { "country": "Gabon", "states": ["Gabon (general)"] },
-  { "country": "Germany", "states": ["Germany (general)"] },
-  { "country": "Georgia", "states": ["Georgia (general)"] },
-  { "country": "Greece", "states": ["Greece (general)"] },
-  { "country": "Greenland", "states": ["Greenland (general)"] },
-  { "country": "Ghana", "states": ["Ghana (general)"] },
-  { "country": "Guadeloupe", "states": ["Guadeloupe (general)"] },
-  { "country": "Grenada", "states": ["Grenada (general)"] },
-  { "country": "Gibraltar", "states": ["Gibraltar (general)"] },
-  { "country": "Guam", "states": ["Guam (general)"] },
-  { "country": "Guinea", "states": ["Guinea (general)"] },
-  { "country": "Guyana", "states": ["Guyana (general)"] },
-  { "country": "Guinea-Bissau", "states": ["Guinea-Bissau (general)"] },
-  { "country": "Guernsey", "states": ["Guernsey (general)"] },
-  { "country": "Guatemala", "states": ["Guatemala (general)"] },
-  { "country": "Honduras", "states": ["Honduras (general)"] },
-  { "country": "Iceland", "states": ["Iceland (general)"] },
-  {
-    "country": "India",
-    "states": [
-      "Andaman & Nicobar Islands",
-      "Andhra Pradesh",
-      "Arunachal Pradesh",
-      "Assam",
-      "Bihar",
-      "Chandigarh",
-      "Chhattisgarh",
-      "Dadra & Nagar Haveli",
-      "Daman & Diu",
-      "Delhi - NCR",
-      "Goa",
-      "Gujarat",
-      "Haryana",
-      "Himachal Pradesh",
-      "Jammu and Kashmir",
-      "Jharkhand",
-      "Karnataka",
-      "Kerala",
-      "Lakshadweep",
-      "Madhya Pradesh",
-      "Maharashtra",
-      "Manipur",
-      "Meghalaya",
-      "Mizoram",
-      "Nagaland",
-      "Odisha",
-      "Pondicherry",
-      "Punjab",
-      "Rajasthan",
-      "Sikkim",
-      "Tamil Nadu",
-      "Telangana",
-      "Tripura",
-      "Uttar Pradesh",
-      "Uttarakhand",
-      "West Bengal"
-    ]
-  },
-  { "country": "Haiti", "states": ["Haiti (general)"] },
-  { "country": "Hong Kong", "states": ["Hong Kong (general)"] },
-  { "country": "Hungary", "states": ["Hungary (general)"] },
-  { "country": "Indonesia", "states": ["Indonesia (general)"] },
-  { "country": "Iran", "states": ["Iran (general)"] },
-  { "country": "Iraq", "states": ["Iraq (general)"] },
-  { "country": "Ireland", "states": ["Ireland (general)"] },
-  { "country": "Isle of Men", "states": ["Isle of Men (general)"] },
-  { "country": "Italy", "states": ["Italy (general)"] },
-  { "country": "Israel", "states": ["Israel (general)"] },
-  { "country": "Jamaica", "states": ["Jamaica (general)"] },
-  { "country": "Ivory Coast", "states": ["Ivory Coast (general)"] },
-  { "country": "Kazakhstan", "states": ["Kazakhstan (general)"] },
-  { "country": "Japan", "states": ["Japan (general)"] },
-  { "country": "Jordan", "states": ["Jordan (general)"] },
-  { "country": "Kiribati", "states": ["Kiribati (general)"] },
-  { "country": "Jersey", "states": ["Jersey (general)"] },
-  { "country": "Kuwait", "states": ["Kuwait (general)"] },
-  { "country": "Kosovo", "states": ["Kosovo (general)"] },
-  { "country": "Kyrgyzstan", "states": ["Kyrgyzstan (general)"] },
-  { "country": "Kenya", "states": ["Kenya (general)"] },
-  { "country": "Lebanon", "states": ["Lebanon (general)"] },
-  { "country": "Latvia", "states": ["Latvia (general)"] },
-  { "country": "Lesotho", "states": ["Lesotho (general)"] },
-  { "country": "Liberia", "states": ["Liberia (general)"] },
-  { "country": "Laos", "states": ["Laos (general)"] },
-  { "country": "Libya", "states": ["Libya (general)"] },
-  { "country": "Lithuania", "states": ["Lithuania (general)"] },
-  { "country": "Macau", "states": ["Macau (general)"] },
-  { "country": "Luxembourg", "states": ["Luxembourg (general)"] },
-  { "country": "Liechtenstein", "states": ["Liechtenstein (general)"] },
-  { "country": "Macedonia", "states": ["Macedonia (general)"] },
-  { "country": "Malawi", "states": ["Malawi (general)"] },
-  { "country": "Madagascar", "states": ["Madagascar (general)"] },
-  { "country": "Malaysia", "states": ["Malaysia (general)"] },
-  { "country": "Maldives", "states": ["Maldives (general)"] },
-  { "country": "Malta", "states": ["Malta (general)"] },
-  { "country": "Mali", "states": ["Mali (general)"] },
-  { "country": "Martinique", "states": ["Martinique (general)"] },
-  { "country": "Mauritius", "states": ["Mauritius (general)"] },
-  { "country": "Marshall Islands", "states": ["Marshall Islands (general)"] },
-  { "country": "Mauritania", "states": ["Mauritania (general)"] },
-  { "country": "Mexico", "states": ["Mexico (general)"] },
-  { "country": "Mayotte", "states": ["Mayotte (general)"] },
-  { "country": "Micronesia", "states": ["Micronesia (general)"] },
-  { "country": "Moldova", "states": ["Moldova (general)"] },
-  { "country": "Mongolia", "states": ["Mongolia (general)"] },
-  { "country": "Monaco", "states": ["Monaco (general)"] },
-  { "country": "Morocco", "states": ["Morocco (general)"] },
-  { "country": "Montserrat", "states": ["Montserrat (general)"] },
-  { "country": "Namibia", "states": ["Namibia (general)"] },
-  { "country": "Mozambique", "states": ["Mozambique (general)"] },
-  { "country": "Montenegro", "states": ["Montenegro (general)"] },
-  { "country": "Nauru", "states": ["Nauru (general)"] },
-  { "country": "Netherlands", "states": ["Netherlands (general)"] },
-  { "country": "New Zealand", "states": ["New Zealand (general)"] },
-  { "country": "New Caledonia", "states": ["New Caledonia (general)"] },
-  { "country": "Nigeria", "states": ["Nigeria (general)"] },
-  { "country": "Nepal", "states": ["Nepal (general)"] },
-  { "country": "Nicaragua", "states": ["Nicaragua (general)"] },
-  {
-    "country": "Northern Mariana Islands",
-    "states": ["Northern Mariana Islands (general)"]
-  },
-  { "country": "North Korea", "states": ["North Korea (general)"] },
-  { "country": "Niger", "states": ["Niger (general)"] },
-  { "country": "Norway", "states": ["Norway (general)"] },
-  { "country": "Niue", "states": ["Niue (general)"] },
-  { "country": "Pakistan", "states": ["Pakistan (general)"] },
-  { "country": "Palestine", "states": ["Palestine (general)"] },
-  { "country": "Oman", "states": ["Oman (general)"] },
-  { "country": "Panama", "states": ["Panama (general)"] },
-  { "country": "Palau", "states": ["Palau (general)"] },
-  { "country": "Paraguay", "states": ["Paraguay (general)"] },
-  { "country": "Philippines", "states": ["Philippines (general)"] },
-  { "country": "Papua New Guinea", "states": ["Papua New Guinea (general)"] },
-  { "country": "Peru", "states": ["Peru (general)"] },
-  { "country": "Qatar", "states": ["Qatar (general)"] },
-  { "country": "Reunion", "states": ["Reunion (general)"] },
-  { "country": "Puerto Rico", "states": ["Puerto Rico (general)"] },
-  { "country": "Portugal", "states": ["Portugal (general)"] },
-  { "country": "Poland", "states": ["Poland (general)"] },
-  { "country": "Romania", "states": ["Romania (general)"] },
-  { "country": "Rwanda", "states": ["Rwanda (general)"] },
-  { "country": "Saint Helena", "states": ["Saint Helena (general)"] },
-  { "country": "Russia", "states": ["Russia (general)"] },
-  {
-    "country": "Saint Kitts & Nevis",
-    "states": ["Saint Kitts & Nevis (general)"]
-  },
-  { "country": "Saint Lucia", "states": ["Saint Lucia (general)"] },
-  { "country": "Saint martin", "states": ["Saint martin (general)"] },
-  { "country": "San Marino", "states": ["San Marino (general)"] },
-  { "country": "Samoa", "states": ["Samoa (general)"] },
-  {
-    "country": "Saint Vincent & the Grenadines",
-    "states": ["Saint Vincent & the Grenadines (general)"]
-  },
-  {
-    "country": "Sao Tome and Principe",
-    "states": ["Sao Tome and Principe (general)"]
-  },
-  { "country": "Senegal", "states": ["Senegal (general)"] },
-  { "country": "Saudi Arabia", "states": ["Saudi Arabia (general)"] },
-  { "country": "Sierra Leone", "states": ["Sierra Leone (general)"] },
-  { "country": "Serbia", "states": ["Serbia (general)"] },
-  { "country": "Singapore", "states": ["Singapore (general)"] },
-  { "country": "Slovakia", "states": ["Slovakia (general)"] },
-  { "country": "Seychelles", "states": ["Seychelles (general)"] },
-  { "country": "Solomon Island", "states": ["Solomon Island (general)"] },
-  { "country": "Somalia", "states": ["Somalia (general)"] },
-  { "country": "South Korea", "states": ["South Korea (general)"] },
-  { "country": "South Africa", "states": ["South Africa (general)"] },
-  { "country": "South Sudan", "states": ["South Sudan (general)"] },
-  { "country": "Sri Lanka", "states": ["Sri Lanka (general)"] },
-  { "country": "Slovenia", "states": ["Slovenia (general)"] },
-  { "country": "Suriname", "states": ["Suriname (general)"] },
-  { "country": "Sudan", "states": ["Sudan (general)"] },
-  { "country": "Spain", "states": ["Spain (general)"] },
-  { "country": "Swaziland", "states": ["Swaziland (general)"] },
-  { "country": "Switzerland", "states": ["Switzerland (general)"] },
-  { "country": "Syria", "states": ["Syria (general)"] },
-  { "country": "Sweden", "states": ["Sweden (general)"] },
-  { "country": "Taiwan", "states": ["Taiwan (general)"] },
-  { "country": "Tajikistan", "states": ["Tajikistan (general)"] },
-  { "country": "Tanzania", "states": ["Tanzania (general)"] },
-  { "country": "Timor-Leste", "states": ["Timor-Leste (general)"] },
-  { "country": "Togo", "states": ["Togo (general)"] },
-  { "country": "Thailand", "states": ["Thailand (general)"] },
-  {
-    "country": "Trinidad and Tobago",
-    "states": ["Trinidad and Tobago (general)"]
-  },
-  { "country": "Tonga", "states": ["Tonga (general)"] },
-  { "country": "Turkey", "states": ["Turkey (general)"] },
-  { "country": "Turkmenistan", "states": ["Turkmenistan (general)"] },
-  { "country": "Tuvalu", "states": ["Tuvalu (general)"] },
-  {
-    "country": "Turks and Caicos Island",
-    "states": ["Turks and Caicos Island (general)"]
-  },
-  { "country": "Tunisia", "states": ["Tunisia (general)"] },
-  { "country": "UAE", "states": ["UAE (general)"] },
-  { "country": "Uganda", "states": ["Uganda (general)"] },
-  { "country": "UK", "states": ["UK (general)"] },
-  { "country": "Ukraine", "states": ["Ukraine (general)"] },
-  { "country": "Uzbekistan", "states": ["Uzbekistan (general)"] },
-  { "country": "Uruguay", "states": ["Uruguay (general)"] },
-  {
-    "country": "USA",
-    "states": [
-      "Alabama",
-      "Alaska",
-      "Arizona",
-      "Arkansas",
-      "California",
-      "Colorado",
-      "Connecticut",
-      "Delaware",
-      "District of Columbia",
-      "Florida",
-      "Georgia",
-      "Hawaii",
-      "Idaho",
-      "Illinois",
-      "Indiana",
-      "Iowa",
-      "Kansas",
-      "Kentucky",
-      "Louisiana",
-      "Maine",
-      "Maryland",
-      "Massachusetts",
-      "Michigan",
-      "Minnesota",
-      "Mississippi",
-      "Missouri",
-      "Montana",
-      "Nebraska",
-      "Nevada",
-      "New Hampshire",
-      "New Jersey",
-      "New Mexico",
-      "New York",
-      "North Carolina",
-      "North Dakota",
-      "Ohio",
-      "Oklahoma",
-      "Oregon",
-      "Pennsylvania",
-      "Rhode Island",
-      "South Carolina",
-      "South Dakota",
-      "Tennessee",
-      "Texas",
-      "Utah",
-      "Vermont",
-      "Virginia",
-      "Washington",
-      "West Virginia",
-      "Wisconsin",
-      "Wyoming"
-    ]
-  },
-  { "country": "Vatican City", "states": ["Vatican City (general)"] },
-  { "country": "Vanuatu", "states": ["Vanuatu (general)"] },
-  { "country": "Vietnam", "states": ["Vietnam (general)"] },
-  { "country": "Wallis and Futuna", "states": ["Wallis and Futuna (general)"] },
-  { "country": "US Virgin Island", "states": ["US Virgin Island (general)"] },
-  { "country": "Zambia", "states": ["Zambia (general)"] },
-  { "country": "Venezuela", "states": ["Venezuela (general)"] },
-  { "country": "Yemen", "states": ["Yemen (general)"] },
-  { "country": "Zimbabwe", "states": ["Zimbabwe (general)"] }
+    {
+        "country": "Algeria",
+        "states": [
+            "Algeria (general)"
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "states": [
+            "Afghanistan (general)"
+        ]
+    },
+    {
+        "country": "Albania",
+        "states": [
+            "Albania (general)"
+        ]
+    },
+    {
+        "country": "American Somoa",
+        "states": [
+            "American Samoa (general)"
+        ]
+    },
+    {
+        "country": "Andorra",
+        "states": [
+            "Andorra (general)"
+        ]
+    },
+    {
+        "country": "Angola",
+        "states": [
+            "Angola (general)"
+        ]
+    },
+    {
+        "country": "Anguilla",
+        "states": [
+            "Anguilla (general)"
+        ]
+    },
+    {
+        "country": "Antigua & Barbuda",
+        "states": [
+            "Antigua & Barbuda (general)"
+        ]
+    },
+    {
+        "country": "Argentina",
+        "states": [
+            "Argentina (general)"
+        ]
+    },
+    {
+        "country": "Aruba",
+        "states": [
+            "Aruba (general)"
+        ]
+    },
+    {
+        "country": "Australia",
+        "states": [
+            "Australia (general)"
+        ]
+    },
+    {
+        "country": "Armenia",
+        "states": [
+            "Armenia (general)"
+        ]
+    },
+    {
+        "country": "Austria",
+        "states": [
+            "Austria (general)"
+        ]
+    },
+    {
+        "country": "Bahrain",
+        "states": [
+            "Bahrain (general)"
+        ]
+    },
+    {
+        "country": "Bahamas",
+        "states": [
+            "Bahamas (general)"
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "states": [
+            "Bangladesh (general)"
+        ]
+    },
+    {
+        "country": "Azerbaijan",
+        "states": [
+            "Azerbaijan (general)"
+        ]
+    },
+    {
+        "country": "Barbados",
+        "states": [
+            "Barbados (general)"
+        ]
+    },
+    {
+        "country": "Belize",
+        "states": [
+            "Belize (general)"
+        ]
+    },
+    {
+        "country": "Belarus",
+        "states": [
+            "Belarus (general)"
+        ]
+    },
+    {
+        "country": "Belgium",
+        "states": [
+            "Belgium (general)"
+        ]
+    },
+    {
+        "country": "Bermuda",
+        "states": [
+            "Bermuda (general)"
+        ]
+    },
+    {
+        "country": "Benin",
+        "states": [
+            "Benin (general)"
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "states": [
+            "Bhutan (general)"
+        ]
+    },
+    {
+        "country": "Bolivia",
+        "states": [
+            "Bolivia (general)"
+        ]
+    },
+    {
+        "country": "Brazil",
+        "states": [
+            "Brazil (general)"
+        ]
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "states": [
+            "Bosnia and Herzegovina (general)"
+        ]
+    },
+    {
+        "country": "Botswana",
+        "states": [
+            "Botswana (general)"
+        ]
+    },
+    {
+        "country": "British Virgin Islands",
+        "states": [
+            "British Virgin Islands (general)"
+        ]
+    },
+    {
+        "country": "Brunei",
+        "states": [
+            "Brunei (general)"
+        ]
+    },
+    {
+        "country": "Burundi",
+        "states": [
+            "Burundi (general)"
+        ]
+    },
+    {
+        "country": "Burkina Faso",
+        "states": [
+            "Burkina Faso (general)"
+        ]
+    },
+    {
+        "country": "Bulgaria",
+        "states": [
+            "Bulgaria (general)"
+        ]
+    },
+    {
+        "country": "Cambodia",
+        "states": [
+            "Cambodia (general)"
+        ]
+    },
+    {
+        "country": "Cameroon",
+        "states": [
+            "Cameroon (general)"
+        ]
+    },
+    {
+        "country": "Cape Verde",
+        "states": [
+            "Cape Verde (general)"
+        ]
+    },
+    {
+        "country": "Canada",
+        "states": [
+            "Canada (general)"
+        ]
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "states": [
+            "Caribbean Netherlands (general)"
+        ]
+    },
+    {
+        "country": "Cayman Island",
+        "states": [
+            "Cayman Island (general)"
+        ]
+    },
+    {
+        "country": "Chad",
+        "states": [
+            "Chad (general)"
+        ]
+    },
+    {
+        "country": "Central African Republic",
+        "states": [
+            "Central African Republic (general)"
+        ]
+    },
+    {
+        "country": "Chile",
+        "states": [
+            "Chile (general)"
+        ]
+    },
+    {
+        "country": "Colombia",
+        "states": [
+            "Colombia (general)"
+        ]
+    },
+    {
+        "country": "China",
+        "states": [
+            "Anhui",
+            "Beijing Shi",
+            "Fujian",
+            "Gansu",
+            "Guangdong",
+            "Guangxi Zhu",
+            "Guizhou",
+            "Hebei",
+            "Heilongjiang",
+            "Henan",
+            "Hubei",
+            "Hunan",
+            "Jiangsu",
+            "Jiangxi",
+            "Jilin",
+            "Liaoning",
+            "Nei Menggu",
+            "Nei Mongol",
+            "Ningxia Huizu",
+            "Qinghai",
+            "Shaanxi",
+            "Shandong",
+            "Shanghai Shi",
+            "Shanxi",
+            "Sichuan",
+            "Tianjin Shi",
+            "Xinjiang",
+            "Yunnan",
+            "Zhejiang",
+            "Other"
+        ]
+    },
+    {
+        "country": "Comoros",
+        "states": [
+            "Comoros (general)"
+        ]
+    },
+    {
+        "country": "Congo",
+        "states": [
+            "Congo (general)"
+        ]
+    },
+    {
+        "country": "Congo (DRC)",
+        "states": [
+            "Congo (DRC) (general)"
+        ]
+    },
+    {
+        "country": "Cook Island",
+        "states": [
+            "Cook Island (general)"
+        ]
+    },
+    {
+        "country": "Costa Rica",
+        "states": [
+            "Costa Rica (general)"
+        ]
+    },
+    {
+        "country": "Curaçao",
+        "states": [
+            "Curaçao (general)"
+        ]
+    },
+    {
+        "country": "Cuba",
+        "states": [
+            "Cuba (general)"
+        ]
+    },
+    {
+        "country": "Croatia",
+        "states": [
+            "Croatia (general)"
+        ]
+    },
+    {
+        "country": "Cyprus",
+        "states": [
+            "Cyprus (general)"
+        ]
+    },
+    {
+        "country": "Djibouti",
+        "states": [
+            "Djibouti (general)"
+        ]
+    },
+    {
+        "country": "Czech Republic",
+        "states": [
+            "Czech Republic (general)"
+        ]
+    },
+    {
+        "country": "Denmark",
+        "states": [
+            "Denmark (general)"
+        ]
+    },
+    {
+        "country": "Dominica",
+        "states": [
+            "Dominica (general)"
+        ]
+    },
+    {
+        "country": "Dominican Republic",
+        "states": [
+            "Dominican Republic (general)"
+        ]
+    },
+    {
+        "country": "Ecuador",
+        "states": [
+            "Ecuador (general)"
+        ]
+    },
+    {
+        "country": "Egypt",
+        "states": [
+            "Egypt (general)"
+        ]
+    },
+    {
+        "country": "El Salvador",
+        "states": [
+            "El Salvador (general)"
+        ]
+    },
+    {
+        "country": "Equatorial Guinea",
+        "states": [
+            "Equatorial Guinea (general)"
+        ]
+    },
+    {
+        "country": "Eritrea",
+        "states": [
+            "Eritrea (general)"
+        ]
+    },
+    {
+        "country": "Estonia",
+        "states": [
+            "Estonia (general)"
+        ]
+    },
+    {
+        "country": "Ethiopia",
+        "states": [
+            "Ethiopia (general)"
+        ]
+    },
+    {
+        "country": "Falklands Islands",
+        "states": [
+            "Falklands Islands (general)"
+        ]
+    },
+    {
+        "country": "Finland",
+        "states": [
+            "Finland (general)"
+        ]
+    },
+    {
+        "country": "Faroe Islands",
+        "states": [
+            "Faroe Islands (general)"
+        ]
+    },
+    {
+        "country": "Fiji",
+        "states": [
+            "Fiji (general)"
+        ]
+    },
+    {
+        "country": "France",
+        "states": [
+            "France (general)"
+        ]
+    },
+    {
+        "country": "Gabon",
+        "states": [
+            "Gabon (general)"
+        ]
+    },
+    {
+        "country": "French Guiana",
+        "states": [
+            "French Guiana (general)"
+        ]
+    },
+    {
+        "country": "French Polynesia",
+        "states": [
+            "French Polynesia (general)"
+        ]
+    },
+    {
+        "country": "Gambia",
+        "states": [
+            "Gambia (general)"
+        ]
+    },
+    {
+        "country": "Georgia",
+        "states": [
+            "Georgia (general)"
+        ]
+    },
+    {
+        "country": "Germany",
+        "states": [
+            "Germany (general)"
+        ]
+    },
+    {
+        "country": "Ghana",
+        "states": [
+            "Ghana (general)"
+        ]
+    },
+    {
+        "country": "Grenada",
+        "states": [
+            "Grenada (general)"
+        ]
+    },
+    {
+        "country": "Gibraltar",
+        "states": [
+            "Gibraltar (general)"
+        ]
+    },
+    {
+        "country": "Greece",
+        "states": [
+            "Greece (general)"
+        ]
+    },
+    {
+        "country": "Greenland",
+        "states": [
+            "Greenland (general)"
+        ]
+    },
+    {
+        "country": "Guernsey",
+        "states": [
+            "Guernsey (general)"
+        ]
+    },
+    {
+        "country": "Guinea",
+        "states": [
+            "Guinea (general)"
+        ]
+    },
+    {
+        "country": "Guinea-Bissau",
+        "states": [
+            "Guinea-Bissau (general)"
+        ]
+    },
+    {
+        "country": "Guyana",
+        "states": [
+            "Guyana (general)"
+        ]
+    },
+    {
+        "country": "Guam",
+        "states": [
+            "Guam (general)"
+        ]
+    },
+    {
+        "country": "Honduras",
+        "states": [
+            "Honduras (general)"
+        ]
+    },
+    {
+        "country": "Guadeloupe",
+        "states": [
+            "Guadeloupe (general)"
+        ]
+    },
+    {
+        "country": "Guatemala",
+        "states": [
+            "Guatemala (general)"
+        ]
+    },
+    {
+        "country": "Haiti",
+        "states": [
+            "Haiti (general)"
+        ]
+    },
+    {
+        "country": "Hong Kong",
+        "states": [
+            "Hong Kong (general)"
+        ]
+    },
+    {
+        "country": "Hungary",
+        "states": [
+            "Hungary (general)"
+        ]
+    },
+    {
+        "country": "Iceland",
+        "states": [
+            "Iceland (general)"
+        ]
+    },
+    {
+        "country": "India",
+        "states": [
+            "Andaman & Nicobar Islands",
+            "Andhra Pradesh",
+            "Arunachal Pradesh",
+            "Assam",
+            "Bihar",
+            "Chandigarh",
+            "Chhattisgarh",
+            "Dadra & Nagar Haveli",
+            "Daman & Diu",
+            "Delhi - NCR",
+            "Goa",
+            "Gujarat",
+            "Haryana",
+            "Himachal Pradesh",
+            "Jammu and Kashmir",
+            "Jharkhand",
+            "Karnataka",
+            "Kerala",
+            "Lakshadweep",
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Manipur",
+            "Meghalaya",
+            "Mizoram",
+            "Nagaland",
+            "Odisha",
+            "Pondicherry",
+            "Punjab",
+            "Rajasthan",
+            "Sikkim",
+            "Tamil Nadu",
+            "Telangana",
+            "Tripura",
+            "Uttar Pradesh",
+            "Uttarakhand",
+            "West Bengal"
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "states": [
+            "Indonesia (general)"
+        ]
+    },
+    {
+        "country": "Iran",
+        "states": [
+            "Iran (general)"
+        ]
+    },
+    {
+        "country": "Iraq",
+        "states": [
+            "Iraq (general)"
+        ]
+    },
+    {
+        "country": "Ireland",
+        "states": [
+            "Ireland (general)"
+        ]
+    },
+    {
+        "country": "Isle of Men",
+        "states": [
+            "Isle of Men (general)"
+        ]
+    },
+    {
+        "country": "Israel",
+        "states": [
+            "Israel (general)"
+        ]
+    },
+    {
+        "country": "Italy",
+        "states": [
+            "Italy (general)"
+        ]
+    },
+    {
+        "country": "Ivory Coast",
+        "states": [
+            "Ivory Coast (general)"
+        ]
+    },
+    {
+        "country": "Jamaica",
+        "states": [
+            "Jamaica (general)"
+        ]
+    },
+    {
+        "country": "Japan",
+        "states": [
+            "Japan (general)"
+        ]
+    },
+    {
+        "country": "Jersey",
+        "states": [
+            "Jersey (general)"
+        ]
+    },
+    {
+        "country": "Jordan",
+        "states": [
+            "Jordan (general)"
+        ]
+    },
+    {
+        "country": "Kazakhstan",
+        "states": [
+            "Kazakhstan (general)"
+        ]
+    },
+    {
+        "country": "Kenya",
+        "states": [
+            "Kenya (general)"
+        ]
+    },
+    {
+        "country": "Kiribati",
+        "states": [
+            "Kiribati (general)"
+        ]
+    },
+    {
+        "country": "Kosovo",
+        "states": [
+            "Kosovo (general)"
+        ]
+    },
+    {
+        "country": "Kuwait",
+        "states": [
+            "Kuwait (general)"
+        ]
+    },
+    {
+        "country": "Kyrgyzstan",
+        "states": [
+            "Kyrgyzstan (general)"
+        ]
+    },
+    {
+        "country": "Laos",
+        "states": [
+            "Laos (general)"
+        ]
+    },
+    {
+        "country": "Latvia",
+        "states": [
+            "Latvia (general)"
+        ]
+    },
+    {
+        "country": "Lebanon",
+        "states": [
+            "Lebanon (general)"
+        ]
+    },
+    {
+        "country": "Lesotho",
+        "states": [
+            "Lesotho (general)"
+        ]
+    },
+    {
+        "country": "Liberia",
+        "states": [
+            "Liberia (general)"
+        ]
+    },
+    {
+        "country": "Libya",
+        "states": [
+            "Libya (general)"
+        ]
+    },
+    {
+        "country": "Liechtenstein",
+        "states": [
+            "Liechtenstein (general)"
+        ]
+    },
+    {
+        "country": "Lithuania",
+        "states": [
+            "Lithuania (general)"
+        ]
+    },
+    {
+        "country": "Luxembourg",
+        "states": [
+            "Luxembourg (general)"
+        ]
+    },
+    {
+        "country": "Macau",
+        "states": [
+            "Macau (general)"
+        ]
+    },
+    {
+        "country": "Macedonia",
+        "states": [
+            "Macedonia (general)"
+        ]
+    },
+    {
+        "country": "Madagascar",
+        "states": [
+            "Madagascar (general)"
+        ]
+    },
+    {
+        "country": "Malawi",
+        "states": [
+            "Malawi (general)"
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "states": [
+            "Malaysia (general)"
+        ]
+    },
+    {
+        "country": "Maldives",
+        "states": [
+            "Maldives (general)"
+        ]
+    },
+    {
+        "country": "Mali",
+        "states": [
+            "Mali (general)"
+        ]
+    },
+    {
+        "country": "Malta",
+        "states": [
+            "Malta (general)"
+        ]
+    },
+    {
+        "country": "Marshall Islands",
+        "states": [
+            "Marshall Islands (general)"
+        ]
+    },
+    {
+        "country": "Martinique",
+        "states": [
+            "Martinique (general)"
+        ]
+    },
+    {
+        "country": "Mauritania",
+        "states": [
+            "Mauritania (general)"
+        ]
+    },
+    {
+        "country": "Mauritius",
+        "states": [
+            "Mauritius (general)"
+        ]
+    },
+    {
+        "country": "Mayotte",
+        "states": [
+            "Mayotte (general)"
+        ]
+    },
+    {
+        "country": "Mexico",
+        "states": [
+            "Mexico (general)"
+        ]
+    },
+    {
+        "country": "Micronesia",
+        "states": [
+            "Micronesia (general)"
+        ]
+    },
+    {
+        "country": "Moldova",
+        "states": [
+            "Moldova (general)"
+        ]
+    },
+    {
+        "country": "Monaco",
+        "states": [
+            "Monaco (general)"
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "states": [
+            "Mongolia (general)"
+        ]
+    },
+    {
+        "country": "Montenegro",
+        "states": [
+            "Montenegro (general)"
+        ]
+    },
+    {
+        "country": "Montserrat",
+        "states": [
+            "Montserrat (general)"
+        ]
+    },
+    {
+        "country": "Morocco",
+        "states": [
+            "Morocco (general)"
+        ]
+    },
+    {
+        "country": "Mozambique",
+        "states": [
+            "Mozambique (general)"
+        ]
+    },
+    {
+        "country": "Myanmar",
+        "states": [
+            "Myanmar (general)"
+        ]
+    },
+    {
+        "country": "Namibia",
+        "states": [
+            "Namibia (general)"
+        ]
+    },
+    {
+        "country": "Nauru",
+        "states": [
+            "Nauru (general)"
+        ]
+    },
+    {
+        "country": "Nepal",
+        "states": [
+            "Nepal (general)"
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "states": [
+            "Netherlands (general)"
+        ]
+    },
+    {
+        "country": "New Caledonia",
+        "states": [
+            "New Caledonia (general)"
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "states": [
+            "New Zealand (general)"
+        ]
+    },
+    {
+        "country": "Nicaragua",
+        "states": [
+            "Nicaragua (general)"
+        ]
+    },
+    {
+        "country": "Niger",
+        "states": [
+            "Niger (general)"
+        ]
+    },
+    {
+        "country": "Nigeria",
+        "states": [
+            "Nigeria (general)"
+        ]
+    },
+    {
+        "country": "Niue",
+        "states": [
+            "Niue (general)"
+        ]
+    },
+    {
+        "country": "North Korea",
+        "states": [
+            "North Korea (general)"
+        ]
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "states": [
+            "Northern Mariana Islands (general)"
+        ]
+    },
+    {
+        "country": "Norway",
+        "states": [
+            "Norway (general)"
+        ]
+    },
+    {
+        "country": "Oman",
+        "states": [
+            "Oman (general)"
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "states": [
+            "Pakistan (general)"
+        ]
+    },
+    {
+        "country": "Palau",
+        "states": [
+            "Palau (general)"
+        ]
+    },
+    {
+        "country": "Palestine",
+        "states": [
+            "Palestine (general)"
+        ]
+    },
+    {
+        "country": "Panama",
+        "states": [
+            "Panama (general)"
+        ]
+    },
+    {
+        "country": "Papua New Guinea",
+        "states": [
+            "Papua New Guinea (general)"
+        ]
+    },
+    {
+        "country": "Paraguay",
+        "states": [
+            "Paraguay (general)"
+        ]
+    },
+    {
+        "country": "Peru",
+        "states": [
+            "Peru (general)"
+        ]
+    },
+    {
+        "country": "Philippines",
+        "states": [
+            "Philippines (general)"
+        ]
+    },
+    {
+        "country": "Poland",
+        "states": [
+            "Poland (general)"
+        ]
+    },
+    {
+        "country": "Portugal",
+        "states": [
+            "Portugal (general)"
+        ]
+    },
+    {
+        "country": "Puerto Rico",
+        "states": [
+            "Puerto Rico (general)"
+        ]
+    },
+    {
+        "country": "Qatar",
+        "states": [
+            "Qatar (general)"
+        ]
+    },
+    {
+        "country": "Reunion",
+        "states": [
+            "Reunion (general)"
+        ]
+    },
+    {
+        "country": "Romania",
+        "states": [
+            "Romania (general)"
+        ]
+    },
+    {
+        "country": "Russia",
+        "states": [
+            "Russia (general)"
+        ]
+    },
+    {
+        "country": "Rwanda",
+        "states": [
+            "Rwanda (general)"
+        ]
+    },
+    {
+        "country": "Saint Helena",
+        "states": [
+            "Saint Helena (general)"
+        ]
+    },
+    {
+        "country": "Saint Kitts & Nevis",
+        "states": [
+            "Saint Kitts & Nevis (general)"
+        ]
+    },
+    {
+        "country": "Saint Lucia",
+        "states": [
+            "Saint Lucia (general)"
+        ]
+    },
+    {
+        "country": "Saint martin",
+        "states": [
+            "Saint martin (general)"
+        ]
+    },
+    {
+        "country": "Saint Vincent & the Grenadines",
+        "states": [
+            "Saint Vincent & the Grenadines (general)"
+        ]
+    },
+    {
+        "country": "Samoa",
+        "states": [
+            "Samoa (general)"
+        ]
+    },
+    {
+        "country": "San Marino",
+        "states": [
+            "San Marino (general)"
+        ]
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "states": [
+            "Sao Tome and Principe (general)"
+        ]
+    },
+    {
+        "country": "Saudi Arabia",
+        "states": [
+            "Saudi Arabia (general)"
+        ]
+    },
+    {
+        "country": "Senegal",
+        "states": [
+            "Senegal (general)"
+        ]
+    },
+    {
+        "country": "Serbia",
+        "states": [
+            "Serbia (general)"
+        ]
+    },
+    {
+        "country": "Seychelles",
+        "states": [
+            "Seychelles (general)"
+        ]
+    },
+    {
+        "country": "Sierra Leone",
+        "states": [
+            "Sierra Leone (general)"
+        ]
+    },
+    {
+        "country": "Singapore",
+        "states": [
+            "Singapore (general)"
+        ]
+    },
+    {
+        "country": "Slovakia",
+        "states": [
+            "Slovakia (general)"
+        ]
+    },
+    {
+        "country": "Slovenia",
+        "states": [
+            "Slovenia (general)"
+        ]
+    },
+    {
+        "country": "Solomon Island",
+        "states": [
+            "Solomon Island (general)"
+        ]
+    },
+    {
+        "country": "Somalia",
+        "states": [
+            "Somalia (general)"
+        ]
+    },
+    {
+        "country": "South Africa",
+        "states": [
+            "South Africa (general)"
+        ]
+    },
+    {
+        "country": "South Korea",
+        "states": [
+            "South Korea (general)"
+        ]
+    },
+    {
+        "country": "South Sudan",
+        "states": [
+            "South Sudan (general)"
+        ]
+    },
+    {
+        "country": "Spain",
+        "states": [
+            "Spain (general)"
+        ]
+    },
+    {
+        "country": "Sri Lanka",
+        "states": [
+            "Sri Lanka (general)"
+        ]
+    },
+    {
+        "country": "Sudan",
+        "states": [
+            "Sudan (general)"
+        ]
+    },
+    {
+        "country": "Suriname",
+        "states": [
+            "Suriname (general)"
+        ]
+    },
+    {
+        "country": "Swaziland",
+        "states": [
+            "Swaziland (general)"
+        ]
+    },
+    {
+        "country": "Sweden",
+        "states": [
+            "Sweden (general)"
+        ]
+    },
+    {
+        "country": "Switzerland",
+        "states": [
+            "Switzerland (general)"
+        ]
+    },
+    {
+        "country": "Syria",
+        "states": [
+            "Syria (general)"
+        ]
+    },
+    {
+        "country": "Taiwan",
+        "states": [
+            "Taiwan (general)"
+        ]
+    },
+    {
+        "country": "Tajikistan",
+        "states": [
+            "Tajikistan (general)"
+        ]
+    },
+    {
+        "country": "Tanzania",
+        "states": [
+            "Tanzania (general)"
+        ]
+    },
+    {
+        "country": "Thailand",
+        "states": [
+            "Thailand (general)"
+        ]
+    },
+    {
+        "country": "Timor-Leste",
+        "states": [
+            "Timor-Leste (general)"
+        ]
+    },
+    {
+        "country": "Togo",
+        "states": [
+            "Togo (general)"
+        ]
+    },
+    {
+        "country": "Tonga",
+        "states": [
+            "Tonga (general)"
+        ]
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "states": [
+            "Trinidad and Tobago (general)"
+        ]
+    },
+    {
+        "country": "Tunisia",
+        "states": [
+            "Tunisia (general)"
+        ]
+    },
+    {
+        "country": "Turkey",
+        "states": [
+            "Turkey (general)"
+        ]
+    },
+    {
+        "country": "Turkmenistan",
+        "states": [
+            "Turkmenistan (general)"
+        ]
+    },
+    {
+        "country": "Turks and Caicos Island",
+        "states": [
+            "Turks and Caicos Island (general)"
+        ]
+    },
+    {
+        "country": "Tuvalu",
+        "states": [
+            "Tuvalu (general)"
+        ]
+    },
+    {
+        "country": "UAE",
+        "states": [
+            "UAE (general)"
+        ]
+    },
+    {
+        "country": "Uganda",
+        "states": [
+            "Uganda (general)"
+        ]
+    },
+    {
+        "country": "UK",
+        "states": [
+            "UK (general)"
+        ]
+    },
+    {
+        "country": "Ukraine",
+        "states": [
+            "Ukraine (general)"
+        ]
+    },
+    {
+        "country": "Uruguay",
+        "states": [
+            "Uruguay (general)"
+        ]
+    },
+    {
+        "country": "US Virgin Island",
+        "states": [
+            "US Virgin Island (general)"
+        ]
+    },
+    {
+        "country": "USA",
+        "states": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California",
+            "Colorado",
+            "Connecticut",
+            "Delaware",
+            "District of Columbia",
+            "Florida",
+            "Georgia",
+            "Hawaii",
+            "Idaho",
+            "Illinois",
+            "Indiana",
+            "Iowa",
+            "Kansas",
+            "Kentucky",
+            "Louisiana",
+            "Maine",
+            "Maryland",
+            "Massachusetts",
+            "Michigan",
+            "Minnesota",
+            "Mississippi",
+            "Missouri",
+            "Montana",
+            "Nebraska",
+            "Nevada",
+            "New Hampshire",
+            "New Jersey",
+            "New Mexico",
+            "New York",
+            "North Carolina",
+            "North Dakota",
+            "Ohio",
+            "Oklahoma",
+            "Oregon",
+            "Pennsylvania",
+            "Rhode Island",
+            "South Carolina",
+            "South Dakota",
+            "Tennessee",
+            "Texas",
+            "Utah",
+            "Vermont",
+            "Virginia",
+            "Washington",
+            "West Virginia",
+            "Wisconsin",
+            "Wyoming"
+        ]
+    },
+    {
+        "country": "Uzbekistan",
+        "states": [
+            "Uzbekistan (general)"
+        ]
+    },
+    {
+        "country": "Vanuatu",
+        "states": [
+            "Vanuatu (general)"
+        ]
+    },
+    {
+        "country": "Vatican City",
+        "states": [
+            "Vatican City (general)"
+        ]
+    },
+    {
+        "country": "Venezuela",
+        "states": [
+            "Venezuela (general)"
+        ]
+    },
+    {
+        "country": "Vietnam",
+        "states": [
+            "Vietnam (general)"
+        ]
+    },
+    {
+        "country": "Wallis and Futuna",
+        "states": [
+            "Wallis and Futuna (general)"
+        ]
+    },
+    {
+        "country": "Western Sahara",
+        "states": [
+            "Western Sahara (general)"
+        ]
+    },
+    {
+        "country": "Yemen",
+        "states": [
+            "Yemen (general)"
+        ]
+    },
+    {
+        "country": "Zambia",
+        "states": [
+            "Zambia (general)"
+        ]
+    },
+    {
+        "country": "Zimbabwe",
+        "states": [
+            "Zimbabwe (general)"
+        ]
+    }
 ]
